@@ -1,0 +1,32 @@
+.header {
+    padding-left: 450px;
+    background-color: greenyellow;
+    height: 60px;
+}
+
+.medicine {
+    padding-left: 550px;
+    background-color: rgb(255, 133, 133);
+    padding-top: 20px;
+}
+
+.med1 {
+    height: 25px;
+    margin-bottom: 20px;
+}
+
+.sub {
+    margin-left: 50px;
+    height: 30px;
+    width: 60px;
+    background-color: rgb(110, 238, 159);
+}
+
+.med2 {
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+.med3 {
+    padding-left: 30px;
+}

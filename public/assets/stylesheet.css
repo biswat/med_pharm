@@ -1,0 +1,99 @@
+.header {
+    height: 500px;
+    background-image: url(images/med1.jpg);
+    background-size: cover;
+    background-color: white;
+}
+
+.head {
+    background-color: greenyellow;
+}
+
+.header-logo{
+    font-size: 20px;
+    font-family: Avenir Next;
+    float: left;
+    color: rgb(136, 12, 12);
+    padding-top: 10px;
+    padding-left: 20px;
+    
+}
+
+
+
+.header-list li{
+    float: right;
+    list-style: none;
+    padding-right: 40px;
+    padding-top: 30px;
+    color: rgb(136, 12, 12);
+    
+}
+
+.sign-up {
+    float: right;
+    background-color: white;
+    height: 300px;
+    width: 280px;
+    margin-right: 140px;
+    margin-top: 60px;
+}
+
+.sign {
+    margin-left: 70px;
+}
+
+.form {
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+.form-text {
+    padding-top: 5px;
+    height: 20px;
+}
+
+.btn {
+    margin-left: 50px;
+    height: 30px;
+    width: 60px;
+}
+
+.body {
+    height: 800px;
+    background-image: url(images/med3.jpeg);
+}
+
+.order-list li{
+    float: left;
+    list-style: none;
+    height: 260px;
+    width: 30px;
+    background-image: url(images/med2.jpg);
+    padding-left: 40px;
+    padding-right: 100px;
+    margin-left: 40px;
+    margin-right: 90px;
+}
+
+.ord-o h3{
+    padding-top: 70px;
+    padding-left: 10px;
+}
+
+.btn-2 {
+    height: 30px;
+    width: 80px;
+    background-color: tomato;
+}
+
+.add {
+    background-color: white;
+    font-size: 30px;
+    color: red;
+}
+
+.medicine {
+    padding-left: 100px;
+    padding-top: 100px;
+}
