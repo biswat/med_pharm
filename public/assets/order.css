@@ -30,3 +30,47 @@
 .med3 {
     padding-left: 30px;
 }
+
+.med10 {
+    border-style: groove;
+    
+    width: 90%
+}
+
+.med10 img {
+    height: 180px;
+    margin: 20px;
+}
+
+.details {
+    float:right;
+    padding-right: 20%;
+    font-size: 30px;
+    line-height: 0.01;
+    
+}
+
+.company{
+    font-size: 20px;
+}
+
+.btn{
+    font-size: 20px;
+    background-color: rgb(70, 243, 54);
+    border-radius: 5px;
+    height: 60px;
+}
+
+,btn p{
+    font-size: 1px;
+}
+
+.med11{
+    list-style: none;
+    column-count: 2;
+    margin-top: 20px;
+}
+
+.med11 li{
+    margin-bottom: 20px;
+}
