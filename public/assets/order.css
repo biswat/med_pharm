@@ -1,12 +1,11 @@
 .header {
     padding-left: 450px;
-    background-color: greenyellow;
+    background-color: rgb(133, 227, 243);
     height: 60px;
 }
 
 .medicine {
     padding-left: 550px;
-    background-color: rgb(255, 133, 133);
     padding-top: 20px;
 }
 
